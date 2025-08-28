@@ -9,13 +9,13 @@
 -  **Product Scanner**
   Scan by barcode or label photo (OCR) to extract ingredients and nutrition.
 
-- 🟢 **Health Score**  
+-  **Health Score**  
   Transparent 0–100 score with A–E grade and alerts (e.g., *High sugar*, *Contains MSG*).
 
-- 🔄 **Smart Alternatives**  
+-  **Smart Alternatives**  
   Suggests 3–5 healthier products in the same category and price range.
 
-- 🛒 **Grocery Builder**  
+-  **Grocery Builder**  
   Generate shopping lists or full baskets under your budget while maximizing nutrition.
 
 ---
