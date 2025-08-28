@@ -1,6 +1,6 @@
 # ScoreMyFood
 
-**Scan packaged foods, get a 0–100 health score with alerts, discover healthier alternatives, and build grocery baskets that fit your budget.**
+# **Scan packaged foods, get a 0–100 health score with alerts, discover healthier alternatives, and build grocery baskets that fit your budget.**
 
 ---
 
